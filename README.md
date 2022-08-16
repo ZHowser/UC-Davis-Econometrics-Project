@@ -10,3 +10,6 @@ The software Stata was used for cleaning and transforming the data as well as pe
 
 ### Data:
 The dataset used in this project is [World Sustainability Dataset](https://www.kaggle.com/datasets/truecue/worldsustainabilitydataset) available to the public on Kaggle
+
+### Project Grade: 99/100
+
